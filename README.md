@@ -47,7 +47,7 @@ git clone https://github.com/RaffiDevYT/covid-19.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Discord](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Discord](https://).
 
 ### License
 
