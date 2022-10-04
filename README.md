@@ -3,8 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/covid-19)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/covid-19?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/covid-19?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/Zd17bkkJyww?style=social)](https://youtu.be/Zd17bkkJyww)
+  [![YouTube](https://img.shields.io/youtube/views/Zd17bkkJyww?style=social)](https://www.youtube.com/c/RaffiDevYT)
 
   <br />
   <br />
@@ -13,7 +12,7 @@
 
 COVID-19 is a fully responsive Corona website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<a href="https://codewithsadee.github.io/covid-19/"><strong>➥ Live Demo</strong></a>
+<a href="https://raffidevyt.github.io/covid-19/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
