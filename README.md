@@ -1,8 +1,8 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/covid-19)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/covid-19?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/covid-19?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/RaffiDevYT/covid-19?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/RaffiDevYT/covid-19?style=social)
   [![YouTube](https://img.shields.io/youtube/views/Zd17bkkJyww?style=social)](https://www.youtube.com/c/RaffiDevYT)
 
   <br />
